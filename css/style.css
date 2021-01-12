@@ -8,7 +8,7 @@
 .catagories img{
     width: 100px;
 }
-.panda-slide, .carousel-item{
+.panda-slide .carousel-item{
     background-color:#fceae8;
     border-radius: 2em;
 }
@@ -17,4 +17,7 @@
 }
 button{
     color: violet;
+}
+.botton-color{
+    background-color: #ff277b;
 }
